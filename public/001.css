@@ -1,0 +1,44 @@
+#carouselExampleIndicators
+{
+    width: 100%;
+    max-width: 720px;
+}
+
+#myTab
+{
+    width:100%; 
+    max-width: 720px;
+    background-color: white;
+}
+
+#myTabContent
+{
+    width:100%;
+    max-width: 720px;
+}
+
+#home-tab
+{
+    text-align:center;
+}
+
+#profile-tab
+{
+    text-align:center;
+}
+
+#contact-tab
+{
+    text-align:center;
+}
+
+#zph1
+{
+    text-align:center;     
+}
+
+.cbp
+{
+    padding: 10px;
+}
+
