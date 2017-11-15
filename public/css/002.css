@@ -1,15 +1,43 @@
 .rightlist
 {
-    position: fixed;
-    height: 100%;
-    width: 30px;
-    right: 0px;
-    padding-right: 10px;
-    text-align: center;
-    z-index: 99;
+    
 }
 
 .rightlist ul li
 {
-    width: 15px;
+    width: 14px;
+}
+
+.card-body
+{
+    padding: 10px 20px;
+    justify-content: center；
+}
+
+.card-text
+{
+    font-size: 30px;
+}
+
+img
+
+a,a:hover,a:link,a:visited,a:active
+{
+    text-decoration: none;
+    color: black;
+    text-decoration-color: black;
+    font-size: 22px;
+}
+
+.tong-item
+{
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.tong
+{
+    min-height: 1200px;
+    background-image: url("../picture/开机画面红似火.png");
+    background-size: 100%;
 }
