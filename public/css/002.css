@@ -1,26 +1,3 @@
-.rightlist
-{
-    
-}
-
-.rightlist ul li
-{
-    width: 14px;
-}
-
-.card-body
-{
-    padding: 10px 20px;
-    justify-content: center；
-}
-
-.card-text
-{
-    font-size: 30px;
-}
-
-img
-
 a,a:hover,a:link,a:visited,a:active
 {
     text-decoration: none;
@@ -35,9 +12,36 @@ a,a:hover,a:link,a:visited,a:active
     margin: 5px;
 }
 
-.tong
+.tong-img
 {
-    min-height: 1200px;
+    border-radius: 10px; 
+    border: 2px solid green; 
+    width: 44px; 
+    height: 44px;
+}
+
+body
+{
     background-image: url("../picture/开机画面红似火.png");
     background-size: 100%;
+    background-attachment:fixed;
+}
+
+.tong-span
+{
+    float: right;
+}
+
+.input-group
+{
+    padding: 10px;
+}
+
+hr
+{
+    margin: 0px;
+}
+
+h3{
+    text-indent: 20px;
 }
