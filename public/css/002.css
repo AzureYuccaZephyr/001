@@ -23,7 +23,7 @@ a:active {
 }
 
 body.a {
-    background-image: url("../picture/开机画面红似火.png");
+    background-image: url("../png/开机画面红似火.png");
     background-size: 100%;
     background-attachment: fixed;
 }
