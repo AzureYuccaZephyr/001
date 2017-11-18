@@ -57,7 +57,7 @@ h3 {
 }
 
 .jiaoliu {
-    /* width: fit-content; */
+    width: fit-content;
     /* max-width: 75%; */
     padding: 0.5rem;
     border-radius: 1rem;
@@ -91,12 +91,18 @@ h5{
 
 .first .col{
     -ms-flex-order: -1;
-    order: -1
+    order: -1;
+}
+
+.first p{
+    float: right;
 }
 
 .first h5{
     text-align: right!important
 }
+
+
 
 .first .jiaoliu{
     color: #155724;
@@ -106,4 +112,13 @@ h5{
 
 .danren h5{
     display: none;
+}
+
+.tong-png{
+    height: 2rem;
+}
+
+#title-name{
+    font-size: 1.5rem;
+    margin: 0;
 }
